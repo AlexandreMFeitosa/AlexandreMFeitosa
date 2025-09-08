@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre 👋
 
-<!--
-**AlexandreMFeitosa/AlexandreMFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Front-end em transição de carreira, com foco em **Angular, React e JavaScript**.  
+📚 Atualmente aprimorando meus conhecimentos com cursos práticos e projetos pessoais.  
+🎯 Buscando minha primeira oportunidade como **Desenvolvedor Front-end Júnior**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso e estudo
+- **Linguagens:** JavaScript (ES6+), TypeScript  
+- **Frameworks/Bibliotecas:** Angular (17–19), React (Hooks, rotas, formulários)  
+- **Estilização:** HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Banco de Dados:** MySQL (básico)  
+- **Ferramentas:** Git/GitHub, VSCode, Vite  
+
+---
+
+## 📌 Projetos em destaque
+- [Simulados para Concursos (React + Vite)](https://github.com/AlexandreMFeitosa/ranqueado)  
+- [CRUD com Angular](https://github.com/AlexandreMFeitosa/seu-crud-angular)  
+- [Tela de Login com Angular](https://github.com/AlexandreMFeitosa/seu-login-angular)  
+
+---
+
+## 🌐 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/alexandre-moraes-feitosa-49264918a/)  
+- **Email:** alexandremoraesfeitosa@gmail.com  
