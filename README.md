@@ -21,6 +21,11 @@
 - [Tela de Login com Angular](https://github.com/AlexandreMFeitosa/seu-login-angular)  
 
 ---
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreMFeitosa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMFeitosa&layout=compact&theme=tokyonight)
+
+---
 
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/alexandre-moraes-feitosa-49264918a/)  
