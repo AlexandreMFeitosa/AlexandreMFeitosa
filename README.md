@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre 👋
 
-💻 Estudante de Front-end em transição de carreira, com foco em **Angular, React e JavaScript**.  
-📚 Atualmente aprimorando meus conhecimentos com cursos práticos e projetos pessoais.  
+💻 Estudante de Front-end em transição de carreira, com expêriencias em **Angular, React e JavaScript**.  
+📚 Atualmente aprimorando meus conhecimentos com cursos práticos, projetos e projetos pessoais.  
 🎯 Buscando minha primeira oportunidade como **Desenvolvedor Front-end Júnior**.  
 
 ---
@@ -10,13 +10,13 @@
 - **Linguagens:** JavaScript (ES6+), TypeScript  
 - **Frameworks/Bibliotecas:** Angular (17–19), React (Hooks, rotas, formulários)  
 - **Estilização:** HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Banco de Dados:** MySQL (básico)  
+- **Banco de Dados:** MySQL (básico) , PostgreSQL ,  
 - **Ferramentas:** Git/GitHub, VSCode, Vite  
 
 ---
 
 ## 📌 Projetos em destaque
-- [Simulados para Concursos (React + Vite)](http://localhost:5173/#/home)
+- [Simulados para Concursos (React + Vite)](https://www.ranqueado.com/)
 - [CRUD com Angular](https://github.com/AlexandreMFeitosa/seu-crud-angular)  
 - [Tela de Login com Angular](https://github.com/AlexandreMFeitosa/seu-login-angular)  
 
@@ -30,5 +30,5 @@
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/alexandre-moraes-feitosa-49264918a/)  
+- [LinkedIn]( https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true )  
 - **Email:** alexandremoraesfeitosa@gmail.com  
