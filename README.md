@@ -17,7 +17,7 @@
 
 ## 📌 Projetos em destaque
 - [Simulados para Concursos (React + Vite)](https://www.ranqueado.com/)
-- [CRUD com Angular](https://github.com/AlexandreMFeitosa/seu-crud-angular)  
+- [App de Treino de Musculação](https://smart-fit-fut.vercel.app/)
 - [Tela de Login com Angular](https://github.com/AlexandreMFeitosa/seu-login-angular)  
 
 ---
