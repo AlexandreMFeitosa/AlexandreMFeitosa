@@ -13,15 +13,10 @@
 📚 Atualmente estudando
 
 - Arquitetura frontend
-
 - React Query
-
 - Testes com React Testing Library
-
 - Clean Code
-
 - TypeScript avançado
-
 
 ---
 
@@ -50,5 +45,5 @@
 ---
 
 ## 🌐 Onde me encontrar
-- LinkedIn (https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true)  
+- **LinkedIn** (https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true)  
 - **Email:** alexandremoraesfeitosa@gmail.com  
