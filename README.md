@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre 👋
 
-💻 Estudante de Front-end em transição de carreira, com expêriencias em **Angular, React e JavaScript**.  
-📚 Atualmente aprimorando meus conhecimentos com cursos práticos, projetos e projetos pessoais.  
+💻 Desenvolvedor Frontend Júnior com experiência em **React**, **TypeScript** e **Vite**, atuando em aplicações web responsivas, integração com APIs e desenvolvimento de componentes reutilizáveis..  
+📚 Atualmente aprimorando meus conhecimentos com cursos práticos e projetos pessoais.  
 🎯 Buscando minha primeira oportunidade como **Desenvolvedor Front-end Júnior**.  
 
 ---
