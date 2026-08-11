@@ -17,12 +17,17 @@
 ---
 
 ## 📌 Projetos em destaque
-- **RANQUEADO** - (React + Vite)](https://www.ranqueado.com/);
-- **App de Treino** - (https://smart-fit-fut.vercel.app/);
-- **AJN Gases** - (React + TypeScript) (em desenvolvimento);
+- **RANQUEADO** - (React + vite + TypeScript) - (https://www.ranqueado.com/)
+  [ * Plataforma web focada em experiência do usuário, onde atuo no desenvolvimento de interfaces, componentes reutilizáveis e integração com APIs. ]
+  
+- **App de Treino** - (React + vite + TypeScript) - (https://smart-fit-fut.vercel.app/)
+ [ Aplicação web para acompanhamento e busca de rotinas de treinos responsiva.]
+ 
+- **AJN Gases** - (React + TypeScript) - (em desenvolvimento)
+-  [ Projeto institucional focado na apresentação de serviços e produtos com tipagem estática e componentes modulares. ]
 
 ---
 
 ## 🌐 Onde me encontrar
-- LinkedIn ( https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true )  
+- LinkedIn (https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true)  
 - **Email:** alexandremoraesfeitosa@gmail.com  
