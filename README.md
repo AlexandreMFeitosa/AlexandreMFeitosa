@@ -18,11 +18,11 @@
 
 ## 📌 Projetos em destaque
 - **RANQUEADO** - (React + Vite)](https://www.ranqueado.com/);
-- [App de Treino] (https://smart-fit-fut.vercel.app/);
-- AJN Gases (React + TypeScript) (em desenvolvimento);
+- **App de Treino** - (https://smart-fit-fut.vercel.app/);
+- **AJN Gases** - (React + TypeScript) (em desenvolvimento);
 
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn]( https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true )  
+- LinkedIn ( https://www.linkedin.com/in/alexandre-moraes-61aba8278/?isSelfProfile=true )  
 - **Email:** alexandremoraesfeitosa@gmail.com  
