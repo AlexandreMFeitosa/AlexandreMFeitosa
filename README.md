@@ -18,13 +18,16 @@
 
 ## 📌 Projetos em destaque
 - **RANQUEADO** - (React + vite + TypeScript) - (https://www.ranqueado.com/)
-  [ * Plataforma web focada em experiência do usuário, onde atuo no desenvolvimento de interfaces, componentes reutilizáveis e integração com APIs. ]
+  
+  : * Plataforma web focada em experiência do usuário, onde atuo no desenvolvimento de interfaces, componentes reutilizáveis e integração com APIs. 
   
 - **App de Treino** - (React + vite + TypeScript) - (https://smart-fit-fut.vercel.app/)
- [ Aplicação web para acompanhamento e busca de rotinas de treinos responsiva.]
+  
+   : Aplicação web para acompanhamento e busca de rotinas de treinos responsiva.
  
 - **AJN Gases** - (React + TypeScript) - (em desenvolvimento)
--  [ Projeto institucional focado na apresentação de serviços e produtos com tipagem estática e componentes modulares. ]
+  
+   : Projeto institucional focado na apresentação de serviços e produtos com tipagem estática e componentes modulares. 
 
 ---
 
